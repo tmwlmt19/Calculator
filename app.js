@@ -30,6 +30,7 @@ let siete = document.querySelector("#siete p")
 let ocho = document.querySelector("#ocho p")
 let nueve = document.querySelector("#nueve p")
 let diez = document.querySelector("#diez p")
+//ar3 will consist of all calculations
 let ar3=[];
 
 //when clicked, each button will call its respective function
